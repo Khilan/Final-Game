@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CEF1C63C-140F-3B01-868D-FFFDE888A7E2}</ProjectGuid>
+    <ProjectGuid>{320CA8BD-6E0D-1349-1DF8-D99486560078}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Scripts\HeroController.cs" />
      <Compile Include="Assets\_Scripts\InstructionController.cs" />
      <Compile Include="Assets\_Scripts\MenuController.cs" />
  <Reference Include="UnityEngine.UI">
